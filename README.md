@@ -1,4 +1,5 @@
 # Welcome to my GitHub Page ! !
+![How-to-Draw-a-Cartoon-Hippopotamus](https://github.com/user-attachments/assets/ca6fd20e-7b12-4375-87a5-e6f9b92b903a)
 
 - 👋 Hi, i’m @AperfectGravity but call me William or Gravity. I speak french, spanish, italian, english and german.
 - 👀 I’m interested in doing some networking here and completed my bachelor in Gerontology in a small university in Vechta in Germany. Gerontology is an interdisciplinary science that researches ageing https://en.wikipedia.org/wiki/Gerontology . In my degree, to cite a few subjects, i studied sociology, psychology, politics, economy, health care/medicine/neuroscience, education science, social law, empirical social methods with SPSS and i even attended an ArcGis and R course offered by the faculty of geography. 
