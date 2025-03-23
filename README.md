@@ -23,7 +23,6 @@ I am currently focusing on:
 I'm particularly interested in collaborating on projects involving:
 - **R**: Data science and statistical analysis.
 - **Lua**: Game development and scripting.
-- **Python**: Programming, automation, and data analysis.
 - **HTML**: Web development and creating functional websites.
 
 If you have any beginner-friendly project suggestions or ideas, feel free to reach out! I'd love to collaborate or discuss ideas.
